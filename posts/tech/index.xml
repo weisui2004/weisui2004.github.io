@@ -7,5 +7,13 @@
     <generator>Hugo -- 0.132.2</generator>
     <language>zh</language>
     <atom:link href="https://weisui2004.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://weisui2004.github.io/posts/tech/fist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://weisui2004.github.io/posts/tech/fist/</guid>
+      <description>dfghghgfhfgh
+1 2 3 4 5 6 7 8 9 10 11 12 .dark.list { background-image: url(&amp;#34;../../img/bb.jpg&amp;#34;) !important; background-repeat: no-repeat; background-size: 100% 100%; background-attachment: fixed; } .page{ background-color: #d5d5d6; border-radius: 30px; max-width: calc(var(--main-width) + var(--gap) * 10); } cww wwww wwqw wwqw 22 wwqw wwqw 22 22 wwqw wwqw 22 22### wwqw wwqw 22 22 wwqw wwqw 22 22### wwqw wwqw 22 22 wwqw wwqw 22 22 wwqw wwqw 22 22 </description>
+    </item>
   </channel>
 </rss>
