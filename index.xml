@@ -6,21 +6,28 @@
     <description>Recent content on 赵同学的 Blog</description>
     <generator>Hugo -- 0.132.2</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 06 Nov 2021 15:15:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 05:47:59 +0800</lastBuildDate>
     <atom:link href="https://weisui2004.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C语言基础</title>
+      <link>https://weisui2004.github.io/posts/java/c%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Thu, 29 Aug 2024 05:47:59 +0800</pubDate>
+      <guid>https://weisui2004.github.io/posts/java/c%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/</guid>
+      <description>c语言基础语法</description>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>https://weisui2004.github.io/about/</link>
+      <pubDate>Fri, 16 Aug 2024 05:47:59 +0800</pubDate>
+      <guid>https://weisui2004.github.io/about/</guid>
+      <description>关于本站 欢迎访问我的博客~~ 建立本博客的作用： 记录自己的学习笔记，遇到的问题和解决方案等，方便在没有电脑时查看笔记 博客的搭建： 本博客使用Halo框架搭建 主题使用的是PaperMod 访问统计使用的 umami 由GitHub进行托管 关于我 基础信息 本人是一个菜狗，目前大二在读，软件工程专业</description>
+    </item>
     <item>
       <title>百宝箱</title>
       <link>https://weisui2004.github.io/links/</link>
       <pubDate>Sat, 06 Nov 2021 15:15:53 +0800</pubDate>
       <guid>https://weisui2004.github.io/links/</guid>
       <description>牛客竞赛网 牛客竞赛，专业的竞技算法训练平台 Hello 算法 500 幅动画图解、14 种编程语言代码、3000 条社区问答，助你快速入门数据结构与算法 代码随想录 认准代码随想录，学习算法不迷路 哔哩哔哩 哔哩哔哩大学 洛谷 在洛谷,享受 Coding 的欢乐 牛客竞赛网 算法刷题</description>
-    </item>
-    <item>
-      <title>关于</title>
-      <link>https://weisui2004.github.io/about/</link>
-      <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
-      <guid>https://weisui2004.github.io/about/</guid>
-      <description>关于本站 欢迎访问我的博客~~ 建立本博客的作用： 记录自己的学习笔记，遇到的问题和解决方案等，方便在没有电脑时查看笔记 博客的搭建： 本博客使用Halo框架搭建 主题使用的是PaperMod 访问统计使用的 umami 由GitHub进行托管 关于我 基础信息 本人是一个菜狗，目前大二在读，软件工程专业</description>
     </item>
   </channel>
 </rss>
